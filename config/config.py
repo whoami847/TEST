@@ -1,13 +1,13 @@
 # config/config.py
 
 # Bot Token (Replace with your actual bot token from BotFather)
-BOT_TOKEN = "your-bot-token-here"
+BOT_TOKEN = "8162566389:AAFDO4ZLWCbrbIDZRxAFb2O9DBIVg1b9gYA"
 
 # Admin IDs (Add your Telegram user ID here)
-ADMIN_IDS = [123456789]  # Example admin ID
+ADMIN_IDS = [7282066033]  # Example admin ID
 
 # Default Welcome Message (Can be changed by admins)
-DEFAULT_WELCOME_MESSAGE = "ʜᴇʏ, ~\n\nɪ ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ꜰɪʟᴇ ꜱʜᴀʀᴇ ʙᴏᴛ ᴠ3.\n\nᴛʜᴇ ʙᴇꜱᴛ ᴘᴀʀᴛ ɪꜱ ɪ ᴀᴍ ᴀʟꜱᴏ ꜱᴜᴘᴘᴏʀᴛ ʀᴇQᴜᴇꜱᴛ ꜰᴏʀᴄᴇꜱᴜʙ ꜰᴇᴀᴛᴜʀᴇ, ᴛᴏ ᴋɴᴏᴡ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ"
+DEFAULT_WELCOME_MESSAGE = "ʜᴇʏ, ~\n\nɪ ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ꜰɪʟᴇ ꜱʜᴀʀᴇ ʙᴏᴛ .\n\nᴛʜᴇ ʙᴇꜱᴛ ᴘᴀʀᴛ ɪꜱ ɪ ᴀᴍ ᴀʟꜱᴏ ꜱᴜᴘᴘᴏʀᴛ ʀᴇQᴜᴇꜱᴛ ꜰᴏʀᴄᴇꜱᴜʙ ꜰᴇᴀᴛᴜʀᴇ, ᴛᴏ ᴋɴᴏᴡ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ"
 
 # Paths to image directories
 WELCOME_IMAGE_DIR = "images/welcome/"
