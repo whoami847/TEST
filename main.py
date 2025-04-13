@@ -1,6 +1,7 @@
 # main.py
 
-from telegram.ext import Application, CommandHandler, CallbackQueryHandler, filters
+from telegram import Update  # Update ইমপোর্ট করা হলো
+from telegram.ext import Application, CommandHandler, CallbackQueryHandler, filters, CallbackContext  # CallbackContext ইমপোর্ট করা আছে
 from config.config import BOT_TOKEN
 from handlers.welcome_handler import start
 from handlers.about_handler import show_about
